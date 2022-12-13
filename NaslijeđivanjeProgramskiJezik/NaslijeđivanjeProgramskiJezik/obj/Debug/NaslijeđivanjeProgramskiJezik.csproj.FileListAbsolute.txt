@@ -1,0 +1,8 @@
+C:\Users\Osoba\Documents\Skola\NaslijeđivanjeProgramskiJezik\NaslijeđivanjeProgramskiJezik\bin\Debug\NaslijeđivanjeProgramskiJezik.exe.config
+C:\Users\Osoba\Documents\Skola\NaslijeđivanjeProgramskiJezik\NaslijeđivanjeProgramskiJezik\bin\Debug\NaslijeđivanjeProgramskiJezik.exe
+C:\Users\Osoba\Documents\Skola\NaslijeđivanjeProgramskiJezik\NaslijeđivanjeProgramskiJezik\bin\Debug\NaslijeđivanjeProgramskiJezik.pdb
+C:\Users\Osoba\Documents\Skola\NaslijeđivanjeProgramskiJezik\NaslijeđivanjeProgramskiJezik\obj\Debug\NaslijeđivanjeProgramskiJezik.csproj.AssemblyReference.cache
+C:\Users\Osoba\Documents\Skola\NaslijeđivanjeProgramskiJezik\NaslijeđivanjeProgramskiJezik\obj\Debug\NaslijeđivanjeProgramskiJezik.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osoba\Documents\Skola\NaslijeđivanjeProgramskiJezik\NaslijeđivanjeProgramskiJezik\obj\Debug\NaslijeđivanjeProgramskiJezik.csproj.CoreCompileInputs.cache
+C:\Users\Osoba\Documents\Skola\NaslijeđivanjeProgramskiJezik\NaslijeđivanjeProgramskiJezik\obj\Debug\NaslijeđivanjeProgramskiJezik.exe
+C:\Users\Osoba\Documents\Skola\NaslijeđivanjeProgramskiJezik\NaslijeđivanjeProgramskiJezik\obj\Debug\NaslijeđivanjeProgramskiJezik.pdb
